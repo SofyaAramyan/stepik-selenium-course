@@ -1,3 +1,4 @@
 # stepik-selenium-course
 Homeworks 
-ссылка на курс https://stepik.org/course/575
+Это репозиторий для хранения доманих заданий.
+Ссылка на курс https://stepik.org/course/575.
